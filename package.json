@@ -6,7 +6,8 @@
   "entry": "dist/hash-password.js",
   "scripts": {
     "build": "rollup --config",
-    "start": "npm run build && node dist/hash-password.js"
+    "start": "npm run build && node dist/hash-password.js",
+    "test": ""
   },
   "author": "Jazz Brown",
   "license": "MIT",
