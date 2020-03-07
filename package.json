@@ -2,8 +2,8 @@
   "name": "hash-password",
   "version": "0.1.0",
   "description": "hash salt password",
-  "main": "dist/index.js",
-  "entry": "dist/index.js",
+  "main": "dist/hash-password.js",
+  "entry": "dist/hash-password.js",
   "scripts": {
     "build": "rollup --config",
     "start": "npm run build && node dist/hash-password.js"
