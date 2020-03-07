@@ -1,6 +1,6 @@
 {
   "name": "hash-password",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "hash salt password",
   "main": "dist/hash-password.js",
   "entry": "dist/hash-password.js",
